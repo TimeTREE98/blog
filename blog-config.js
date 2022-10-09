@@ -1,17 +1,17 @@
 module.exports = {
-  title: "hoodie",
-  description: "Hello :) I'm Hudi who developed gatsby-starter-hoodie theme.",
-  author: "Hudi",
-  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  title: "TimeTREE-log",
+  description: "Hello, World!",
+  author: "TimeTREE",
+  siteUrl: "https://blog.timetree.me/",
   links: {
-    github: "https://github.com/devHudi",
-    linkedIn: "https://linkedin.com",
-    facebook: "https://www.facebook.com",
-    instagram: "https://www.instagram.com",
-    email: "mailto:devhudi@gmail.com",
+    github: "https://github.com/TimeTREE98",
+    linkedIn: "",
+    facebook: "",
+    instagram: "",
+    email: "mailto:timetree@kakao.com",
   },
   utterances: {
-    repo: "devHudi/gatsby-starter-hoodie",
+    repo: "TimeTREE98/blog",
     type: "pathname",
   },
 }

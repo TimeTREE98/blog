@@ -8,8 +8,7 @@ tags:
 series:
 ---
 
-![참고_이미지](reference.png)
-
+![참고](reference.png)
 https://stackoverflow.com/questions/65364886/react-native-on-apple-silicon-m1-the-linked-library-libpods-projectname-a-is
 
 사진처럼 arm64 아키텍쳐 지정해주면 된다.

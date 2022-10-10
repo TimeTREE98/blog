@@ -1,5 +1,5 @@
 module.exports = {
-  title: "TimeTREE-log",
+  title: "TimeTREE-blog",
   description: "Hello, World!",
   author: "TimeTREE",
   siteUrl: "https://blog.timetree.me/",
